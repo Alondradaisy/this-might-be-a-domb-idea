@@ -15,10 +15,10 @@ image.height = '300';
 
 // come back to this
 const image2 = document.querySelector('img');
-image2.src.innerHTML = 'https://www.wgecc.com/wp-content/uploads/2017/04/hummingbird.jpg';
+image2.src. = 'https://www.wgecc.com/wp-content/uploads/2017/04/hummingbird.jpg';
 image2.height = '300';
 
 const li = document.querySelector('li');
-li.style.class = '.item';
-li.style.id = '#item-16';
-li.innerHTML = 'Won't get fooled again.'; 
+li.class = '.item';
+li.id = '#item-16';
+li.text = 'Won't get fooled again.'; 
